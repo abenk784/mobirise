@@ -750,14 +750,67 @@ section.lazy-placeholder:after {
   color: #149dcc;
 }
 .cid-rIz647it9x {
-  background: #ffffff;
+  background: #f7ed4a;
+  padding-top: 60px;
+  padding-bottom: 60px;
 }
 .cid-rIz647it9x .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-rIz647it9x .video-block {
+    width: 100% !important;
+  }
+}
+.cid-rIA7ZeuRIy {
+  background-image: url("../../../assets/images/desain-website-2000x1246.jpeg");
+}
+.cid-rIA7ZeuRIy H1 {
+  text-align: left;
+}
+.cid-rIA7ZeuRIy .mbr-text,
+.cid-rIA7ZeuRIy .mbr-section-btn {
+  text-align: left;
+}
+.cid-rIA7ZfuqXA {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #efefef;
+}
+.cid-rIA7ZfuqXA P {
+  color: #767676;
+}
+.cid-rIA7Zgz5iw {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rIA7Zgz5iw h3 {
+  text-align: center;
+}
+.cid-rIA7Zgz5iw .mbr-section-subtitle {
+  color: #767676;
+  font-weight: 300;
+}
+.cid-rIA7Zgz5iw .mbr-content-text {
+  color: #767676;
+}
+.cid-rIA7Zgz5iw .card {
+  word-wrap: break-word;
+}
+.cid-rIA7Zgz5iw .mbr-iconfont {
+  font-size: 80px;
+  color: #149dcc;
+}
+.cid-rIA7Zi3D2o {
+  background: #ffffff;
+}
+.cid-rIA7Zi3D2o .video-block {
   margin: auto;
   width: 100% !important;
 }
 @media (max-width: 768px) {
-  .cid-rIz647it9x .video-block {
+  .cid-rIA7Zi3D2o .video-block {
     width: 100% !important;
   }
 }
