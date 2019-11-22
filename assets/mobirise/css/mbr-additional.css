@@ -749,16 +749,15 @@ section.lazy-placeholder:after {
   font-size: 80px;
   color: #149dcc;
 }
-.cid-rIz647it9x {
-  background: #f7ed4a;
-  padding-top: 60px;
-  padding-bottom: 60px;
+.cid-rIAkkTFOZi {
+  background: #ffffff;
 }
-.cid-rIz647it9x .video-block {
+.cid-rIAkkTFOZi .video-block {
   margin: auto;
+  width: 100% !important;
 }
 @media (max-width: 768px) {
-  .cid-rIz647it9x .video-block {
+  .cid-rIAkkTFOZi .video-block {
     width: 100% !important;
   }
 }
